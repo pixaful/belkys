@@ -9,7 +9,6 @@ wp-settings\.php
 
 wp-mail\.php
 
-index\.php
 
 license\.txt
 
@@ -42,3 +41,5 @@ wp-content/plugins/
 \.htaccess
 
 wp-config\.php
+
+wp-content/themes/index\.php
