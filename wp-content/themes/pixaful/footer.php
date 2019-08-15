@@ -10,9 +10,7 @@
  */
 
 ?>
-
-	</div><!-- #content -->
-
+	</div>
 	<footer id="colophon" class="site-footer">
 		<div class="site-info">
 			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'pixaful' ) ); ?>">
@@ -26,11 +24,9 @@
 				/* translators: 1: Theme name, 2: Theme author. */
 				printf( esc_html__( 'Theme: %1$s by %2$s.', 'pixaful' ), 'pixaful', '<a href="http://underscores.me/">Underscores.me</a>' );
 				?>
-		</div><!-- .site-info -->
-	</footer><!-- #colophon -->
-</div><!-- #page -->
-
+		</div>
+	</footer>
+</div>
 <?php wp_footer(); ?>
-
 </body>
 </html>
