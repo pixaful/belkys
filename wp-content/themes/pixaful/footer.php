@@ -12,7 +12,26 @@
 ?>
 	</div>
 
-	<footer class="footer">There is something afoot! I will be adding my own widgets in here...</footer>
+	<footer class="footer">
+		<div class="pure-g">
+ 			<div class="pure-u-1 pure-u-md-1-4">
+			 <h3>Head</h3>
+			 <p>Paragraph</p>
+			 </div>
+    		<div class="pure-u-1 pure-u-md-1-4">
+			<h3>Head</h3>
+			<p>Paragraph</p>
+			</div>
+    		<div class="pure-u-1 pure-u-md-1-4">
+			<h3>Head</h3>
+			<p>Paragraph</p>
+			</div>
+			<div class="pure-u-1 pure-u-md-1-4">
+			<h3>Head</h3>
+			<p>Paragraph</p>
+			</div>
+	</div>
+	</footer>
 </div>
 <?php wp_footer(); ?>
 </body>
