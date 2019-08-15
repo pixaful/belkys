@@ -1,18 +1,13 @@
 
-xmlrpc\.php
-
-wp-trackback\.php
-
-wp-signup\.php
-
-wp-settings\.php
-
-wp-mail\.php
-
+\.htaccess
 
 license\.txt
 
+prepros-6\.config
+
 readme\.html
+
+README\.md
 
 wp-activate\.php
 
@@ -22,6 +17,8 @@ wp-comments-post\.php
 
 wp-config-sample\.php
 
+wp-config\.php
+
 wp-cron\.php
 
 wp-links-opml\.php
@@ -30,6 +27,16 @@ wp-load\.php
 
 wp-login\.php
 
+wp-mail\.php
+
+wp-settings\.php
+
+wp-signup\.php
+
+wp-trackback\.php
+
+xmlrpc\.php
+
 wp-includes/
 
 wp-admin/
@@ -37,9 +44,3 @@ wp-admin/
 wp-content/languages/
 
 wp-content/plugins/
-
-\.htaccess
-
-wp-config\.php
-
-wp-content/themes/index\.php
