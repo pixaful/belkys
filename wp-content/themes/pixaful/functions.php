@@ -159,6 +159,7 @@ if ( defined( 'JETPACK__VERSION' ) ) {
 	require get_template_directory() . '/inc/jetpack.php';
 }
 
+
 add_action('wp_print_styles', function () {
   wp_dequeue_style('wp-block-library');
 }, 100);
