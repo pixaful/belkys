@@ -21,13 +21,13 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 */
 @import 'css/pure-min';
 @import 'css/grids-responsive-min';
-
 $faketan: 0 10% 0 10%;
-
-
+.site-content,.site-header {
+    padding: $faketan;
+}
 body {background:#f5f5f5;}
 
-footer {
+.footer {
     background:#fff;
     padding:$faketan;
 }
